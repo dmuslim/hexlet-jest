@@ -1,0 +1,22 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "play"
+  },
+  "repository": {
+    "type": "git",
+    "url": "play"
+  },
+  "keywords": [
+    "play"
+  ],
+  "author": "di",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
